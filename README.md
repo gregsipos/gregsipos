@@ -12,14 +12,15 @@ I'm passionate about designing scalable data pipelines, transforming raw data in
 - ✨ Hobbies & Interests:  
   - Coding & data meetups  
   - Code challenges (eg: Advent of Code)
-  - Exploring new coffee brews ☕  
+  - Exploring new coffee brews ☕
+  - Diving into data analytics use cases and trends
 
 ## 🔧 Technologies & Tools
 
 Here’s a snapshot of the technologies I work with:
 
 - **Programming**: Python, SQL, Scala, Shell/Bash  
-- **Data Engineering & ML**: Apache Spark, PySpark, Databricks, Oracle SQL, MS SQL Server, MySQL, scikit-learn, TensorFlow, Keras  
+- **Data Engineering & ML**: Apache Spark, PySpark, Databricks, Oracle SQL, MS SQL Server, MySQL, Duckdb, scikit-learn, TensorFlow, Keras
 - **Visualization & BI**: Power BI, Matplotlib, Seaborn  
 - **DevOps & Tooling**: Git, Docker, Conda, Postman  
 - **Enterprise Applications**: SAP, Salesforce, SharePoint  
