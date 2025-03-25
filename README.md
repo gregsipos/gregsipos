@@ -6,7 +6,7 @@ I'm passionate about designing scalable data pipelines, transforming raw data in
 
 ## 🚀 About Me
 
-- 🌱 Currently deepening my expertise in: PySpark, Apache Spark, and Databricks on AWS  
+- 🌱 Currently deepening my expertise in: ML & AI model security, Apache Spark and Databricks on AWS  
 - 👯 Open to collaborating on: Data engineering pipelines, open-source tooling, and cloud migration initiatives  
 - 💬 Ask me about: SQL performance tuning, ETL pipeline design, or self-service analytics with Power BI  
 - ✨ Hobbies & Interests:  
