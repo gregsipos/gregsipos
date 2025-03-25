@@ -30,7 +30,7 @@ Here’s a snapshot of the technologies I work with:
 I have hands-on experience leading **reporting implementation** and contributing to **data architecture design**, including acting as a **Product Owner** on cross-functional data initiatives.
 
 I’ve also worked on:
-- 🔍 **Predictive Analytics**: Stock level forecasting & churn prediction using time-series modeling and classification algorithms  
+- 🔍 **Predictive Analytics**: Warehouse stock level forecasting & customer churn prediction using time-series modeling and classification algorithms  
 - 🧠 **Computer Vision**: Academic thesis focused on image recognition using deep learning (CNNs)  
 - 📊 **BI Strategy**: Designing ETL pipelines, implementing incremental refreshes, and building data models and dashboards for actionable business insights  
 
